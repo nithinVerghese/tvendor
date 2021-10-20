@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927305533656",
+    "project_id": "chat-bf649",
+    "storage_bucket": "chat-bf649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927305533656:android:ec5629d16da702ff63afad",
+        "android_client_info": {
+          "package_name": "app.takhlees.takhlees_v"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927305533656-t44a5jk64ia4falvu29c1n1p5jh7q9nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52u-n-OMPmTtHdjEkRtm79G9pc9fKYZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927305533656-t44a5jk64ia4falvu29c1n1p5jh7q9nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

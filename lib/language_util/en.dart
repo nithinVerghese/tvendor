@@ -1,0 +1,51 @@
+const Map<String,String> en = {
+  'title':'Flutter Demo Home Page',
+  'textTitle':'You have pushed the button this many times:',
+  'workingAvailability':'Working availability',
+  'Select the day and time you’re working. You can always change it in settings.':'Select the day and time you’re working. You can always change it in settings.',
+  'Sunday':'''Sunday''',
+  'Monday':'''Monday''',
+  'Tuesday':'''Tuesday''',
+  'Wednesday':'''Wednesday''',
+  'Thursday':'''Thursday''',
+  'Friday':'''Friday''',
+  'Saturday':'''Saturday''',
+  'Next':'''Next''',
+
+  'Bahraini National':'''Bahraini National''',
+  'Expatriate':'''Expatriate''',
+  'GCC National':'''GCC National''',
+
+  'Settings':'''Settings''',
+  'GENERAL':'''GENERAL''',
+  'Company Name':'''Company Name''',
+  'Name':'''Name''',
+  'Work Availability':'''Work Availability''',
+  'PRIVATE INFORMATION':'''PRIVATE INFORMATION''',
+  'Email':'''Email''',
+  'Mobile Phone':'''Mobile Phone''',
+  'Notifications':'''Notifications''',
+  'Change Language':'''Change Language''',
+  'Customer Care':'''Customer Care''',
+  'About':'''About''',
+  'Terms and Conditions':'''Terms and Conditions''',
+  'Privacy Policy':'''Privacy Policy''',
+
+  'Company information':'''Company information''',
+  'Work schedule':'''Work schedule''',
+  'Manage services':'''Manage services''',
+  'Report':'''Report''',
+  'Team members':'''Team members''',
+  'Saved Cards':'''Saved Cards''',
+  'language':'''Language''',
+  'Service Providers':'Orders',
+  'New':'New',
+  'Active':'Active',
+  'Pending':'Pending',
+  'left':'left',
+
+
+
+
+  'Log out':'''Log out''',
+};

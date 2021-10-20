@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "app.takhlees.takhlees_v",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 6,
+        "versionName": "1.0.1",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "app.takhlees.takhlees_v",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
