@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nithinverghese/Project/Flutter/project/takhlees_v/build/url_launcher/intermediates/res/merged/debug/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/nithinverghese/.gradle/caches/transforms-2/files-2.1/f1b7b0bd730e02d79c52e303881a59c7/core-1.1.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/nithinverghese/Project/Flutter/project/takhlees_v/build/url_launcher/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/Users/nithinverghese/.gradle/caches/transforms-2/files-2.1/f1b7b0bd730e02d79c52e303881a59c7/core-1.1.0/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
